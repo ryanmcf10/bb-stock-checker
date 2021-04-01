@@ -1,6 +1,6 @@
 ACCOUNT_SSID = ""
 AUTH_TOKEN = ""
-PHONE_FROM = "",
+PHONE_FROM = ""
 PHONE_TO = ""
 
 HEADERS = {
